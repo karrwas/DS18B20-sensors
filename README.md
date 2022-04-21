@@ -5,4 +5,4 @@ The project uses UART in single wire mode in STM32L476RG as a hardware solution 
 
 Future improvements include:
 - storing sensor address in external EEPROM (much better than local FLASH)
-- enabling the programm to automatically recognize that a new sensor has been connected (DS18B20 allows such operation)
+- enabling the program to automatically recognize that a new sensor has been connected (DS18B20 allows such operation)
